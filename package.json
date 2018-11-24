@@ -1,0 +1,15 @@
+{
+  "name": "SelfAlert",
+  "version": "1.0.0",
+  "description": "Custom alerting and visualization specifically geared for high-speed data streams.",
+  "main": "index.js",
+  "repository": "https://github.com/cofm21/SelfAlert.git",
+  "author": "Connor Flynn McGuinness <cofm21@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "moment": "^2.22.2",
+    "webpack": "^4.26.0",
+    "webpack-cli": "^3.1.2"
+  }
+}
